@@ -1,0 +1,16 @@
+// inline comment
+
+---------------------------------
+
+/*
+  Multi-line 
+  comment.
+*/
+
+---------------------------------
+/**
+This is 
+documentation
+comment
+
+*/
