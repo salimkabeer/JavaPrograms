@@ -1,0 +1,8 @@
+Aggregation can be defined as the relationship between two classes where the 
+aggregate class contains a reference to the class it owns. Aggregation is best 
+described as a has-a relationship. For example, The aggregate class Employee 
+having various fields such as age, name, and salary also contains an object of 
+Address class having various fields such as Address-Line 1, City, State, and 
+pin-code. Example:- Address.java and Emp.java
+
+
